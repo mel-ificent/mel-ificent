@@ -6,11 +6,11 @@ I am constantly looking to learn more and find ways to contribute to the communi
 
 
 ## A little more about me...
-> 🐶 When I'm not behind a computer, I'm probably spoiling my two golden retrievers
-> 
-> 🎨 I love to paint when I can and try to incorporate my work into my applications
-> 
-> 🧚 My handle is a nickname my family used to jokingly tease me with when I was "up to no good" as a kid (yes it is a reference to Disney's villainess Maleficent), it still makes me chuckle after all these years 
+  🐶 When I'm not behind a computer, I'm probably spoiling my two golden retrievers
+
+  🎨 I love to paint when I can and try to incorporate my work into my applications
+
+  🧚 My handle is a nickname my family used to jokingly tease me with when I was "up to no good" as a kid (yes it is a reference to Disney's villainess Maleficent),  it still makes me chuckle after all these years 
 
 
 ⭐ You can learn more about me and what I'm currently working on by visiting my [Portfolio Page](https://mel-ificent.github.io/Portfolio/)
