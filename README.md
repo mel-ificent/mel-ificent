@@ -12,7 +12,7 @@ I am constantly looking to learn more and find ways to contribute to the communi
 
   🎨 I love to paint when I can and try to incorporate my work into my applications
 
-  🧚 My handle is a nickname my family used to jokingly when I was "up to no good" as a kid (yes it is a reference to Disney's villainess Maleficent)
+  🧚 My handle is a nickname my family used jokingly when I was "up to no good" as a kid (yes, it is a reference to Disney's villainess Maleficent)
 
 
 ⭐ You can learn more about me and what I'm currently working on by visiting my [Portfolio Page](https://mel-ificent.github.io/Portfolio/)
