@@ -12,7 +12,7 @@ I am constantly looking to learn more and find ways to contribute to the communi
 
   🎨 I love to paint when I can and try to incorporate my work into my applications
 
-  🧚 My handle is a nickname my family uses jokingly and still makes me smile to this day
+  🧚 My handle is a family nickname from my childhood
 
 
 ⭐ You can learn more about me and what I'm currently working on by visiting my [Portfolio Page](https://mel-ificent.github.io/Portfolio/)
